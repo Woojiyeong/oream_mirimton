@@ -1,16 +1,7 @@
-# React + Vite
+# 미톤 수상작 오름 입니다
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- 해커톤 주제인 디지털 디톡스, 등산이라는 컨셉에 맞춰 할일을 다 하면 오늘의 산을 오를 수 있는 이색 todolist 앱 입니다
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 주요 기능  :
+- 세상에서 제일 높은 산, 에베레스트 등반을 도와주는 셰르파에서 영감을 얻어 등산 요정과 오늘의 할일을 합니다
+- 친구들과 같이 등산 동호회를 결성할 수 있습니다
